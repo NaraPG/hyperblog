@@ -1,9 +1,9 @@
-##**Hyperblog** 
+## **Hyperblog** 
 >Un blog para el curso de git y github de platzi
 
 > En este curso vemos principalmente comandos dentro de la terminal
 
-####Documentos
+#### Documentos
  - - blogspot.html
  - - historia.txt
  - - estilos.css
