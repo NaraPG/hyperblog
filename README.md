@@ -14,8 +14,20 @@
 ## Commands and Concepts
 > Any Git project will consist of three sections: 
 > - The Git directory 
-> - The working tree
-> - The staging area.
+> - The Working tree
+> - The Staging area.
+
+#### Git directory
+> - The Git directory is where Git stores the metadata and object database for your project. This is the most important part of Git, and it is what is copied when you clone a repository from another computer.
+
+#### The working tree
+> - The working tree, or working directory, consists of files that you are currently working on. You can think of a working tree as a file system where you can view and modify files.
+
+#### The Staging area
+> - The staging area is like a rough draft space, it's where you can git add the version of a file or multiple files that you want to save in your next commit, in other words in the next version of your project.
+
+![image](https://user-images.githubusercontent.com/79294934/124152061-cd396500-da58-11eb-9db8-b1ff09918505.png)
+
 
 ## Git basic commands
 > - `git init [repository name]`: This command is used to start a new repository.
@@ -28,14 +40,29 @@
 > - `git push [variable name] [branch]`: This command sends the committed changes of master branch to your remote repository.
 > - `git pull [Repository Link]`: This command fetches and merges changes on the remote server to your working directory.
 > 
-> **More [command examples](https://dzone.com/articles/top-20-git-commands-with-examples)**
+
+## More information 
+> - [command examples](https://dzone.com/articles/top-20-git-commands-with-examples)
+> - [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+> - [What is the use of the staging area in git?](https://stackoverflow.com/questions/49228209/whats-the-use-of-the-staging-area-in-git)
 
 ## Documents
 
- - - blogspot.html
- - - historia.txt
- - - estilos.css
+ > - blogspot.html
+ > - historia.txt
+ > - estilos.css
  
+ ## To run this project
+ > Clone this repository into a new directory
+ > ```
+ > git clone https://github.com/NaraPG/hyperblog.git
+ > ```
+ > Open it in your code editor
+ > ```
+ > code .
+ > ```
+ > Go to `blogpost.html` and press `Shift + Alt + R` to reveal in file explorer
+
  
 >  
 
