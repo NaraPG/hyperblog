@@ -1,5 +1,8 @@
 # Git and Github
 
+## This repository
+> In this course we learn the git main commands and how to implement them in our projects, also we study the necessary concepts to understand how it works internally.
+
 ## Overview
 ####  What is git?
 > Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
