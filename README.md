@@ -9,7 +9,8 @@
 
 ## Dependencies
 
-> Git [downloads](https://git-scm.com/downloads) 
+> Install [Git](https://git-scm.com/downloads) 
+> Install [VisualStudioCode](https://code.visualstudio.com/download)
 
 ## Commands and Concepts
 > Any Git project will consist of three sections: 
@@ -42,7 +43,7 @@
 > 
 
 ## More information 
-> - [command examples](https://dzone.com/articles/top-20-git-commands-with-examples)
+> - [Command examples](https://dzone.com/articles/top-20-git-commands-with-examples)
 > - [Git - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 > - [What is the use of the staging area in git?](https://stackoverflow.com/questions/49228209/whats-the-use-of-the-staging-area-in-git)
 
