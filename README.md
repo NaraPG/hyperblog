@@ -9,8 +9,8 @@
 
 ## Dependencies
 
-> Install [Git](https://git-scm.com/downloads) 
-> Install [VisualStudioCode](https://code.visualstudio.com/download)
+> - Install [Git](https://git-scm.com/downloads) 
+> - Install [VisualStudioCode](https://code.visualstudio.com/download)
 
 ## Commands and Concepts
 > Any Git project will consist of three sections: 
