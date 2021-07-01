@@ -56,7 +56,7 @@
  > - historia.txt
  > - estilos.css
  
- ## To run this project
+ ## Run Code
  > Clone this repository into a new directory
  > ```
  > git clone https://github.com/NaraPG/hyperblog.git
